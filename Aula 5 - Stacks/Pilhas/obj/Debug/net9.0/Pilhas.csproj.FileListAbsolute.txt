@@ -1,0 +1,14 @@
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\bin\Debug\net9.0\Pilhas.exe
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\bin\Debug\net9.0\Pilhas.deps.json
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\bin\Debug\net9.0\Pilhas.runtimeconfig.json
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\bin\Debug\net9.0\Pilhas.dll
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\bin\Debug\net9.0\Pilhas.pdb
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.AssemblyInfo.cs
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.dll
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\refint\Pilhas.dll
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.pdb
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\Pilhas.genruntimeconfig.cache
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 5 - Stacks\pilhas\obj\Debug\net9.0\ref\Pilhas.dll
