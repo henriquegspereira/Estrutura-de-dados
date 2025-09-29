@@ -1,0 +1,30 @@
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.exe
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.deps.json
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.runtimeconfig.json
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.dll
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.pdb
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.AssemblyInfoInputs.cache
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.AssemblyInfo.cs
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.csproj.CoreCompileInputs.cache
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.sourcelink.json
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.dll
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\refint\Company Tree.dll
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.pdb
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.genruntimeconfig.cache
+C:\Users\herique.pereira\Documents\Estrutura de dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\ref\Company Tree.dll
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.exe
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.deps.json
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.runtimeconfig.json
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.dll
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\bin\Debug\net9.0\Company Tree.pdb
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.AssemblyInfoInputs.cache
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.AssemblyInfo.cs
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.csproj.CoreCompileInputs.cache
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.sourcelink.json
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.dll
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\refint\Company Tree.dll
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.pdb
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\Company Tree.genruntimeconfig.cache
+C:\Users\herique.pereira\Desktop\Estrutura-de-dados\Aula 6 - Trees\Company Tree\obj\Debug\net9.0\ref\Company Tree.dll
