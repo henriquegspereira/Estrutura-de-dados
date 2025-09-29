@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArvoreBinaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f53be43e40830c2d80d440cdb2d2993e73a72c36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adb1ad2924c9928ab3d1d811579c647f8cacbee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArvoreBinaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArvoreBinaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

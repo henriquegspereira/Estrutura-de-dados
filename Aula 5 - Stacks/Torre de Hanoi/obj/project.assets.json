@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\herique.pereira\\.nuget\\packages\\": {}
+    "C:\\Users\\henrique.pereira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\herique.pereira\\Documents\\Estrutura de dados\\Aula 5 - Stacks\\Torre de Hanoi\\Torre de Hanoi.csproj",
+      "projectUniqueName": "C:\\Users\\henrique.pereira\\Desktop\\EstuturadeDados\\Aula 5 - Stacks\\Torre de Hanoi\\Torre de Hanoi.csproj",
       "projectName": "Torre de Hanoi",
-      "projectPath": "C:\\Users\\herique.pereira\\Documents\\Estrutura de dados\\Aula 5 - Stacks\\Torre de Hanoi\\Torre de Hanoi.csproj",
-      "packagesPath": "C:\\Users\\herique.pereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\herique.pereira\\Documents\\Estrutura de dados\\Aula 5 - Stacks\\Torre de Hanoi\\obj\\",
+      "projectPath": "C:\\Users\\henrique.pereira\\Desktop\\EstuturadeDados\\Aula 5 - Stacks\\Torre de Hanoi\\Torre de Hanoi.csproj",
+      "packagesPath": "C:\\Users\\henrique.pereira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henrique.pereira\\Desktop\\EstuturadeDados\\Aula 5 - Stacks\\Torre de Hanoi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\herique.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\henrique.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
