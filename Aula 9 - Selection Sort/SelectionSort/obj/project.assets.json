@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\herique.pereira\\Desktop\\Estrutura-de-dados\\Aula 1 - Arrays\\Jogo da Velha\\Jogo da Velha.csproj",
-      "projectName": "Jogo da Velha",
-      "projectPath": "C:\\Users\\herique.pereira\\Desktop\\Estrutura-de-dados\\Aula 1 - Arrays\\Jogo da Velha\\Jogo da Velha.csproj",
+      "projectUniqueName": "C:\\Users\\herique.pereira\\Desktop\\Estrutura-de-dados\\Aula 9 - Selection Sort\\SelectionSort\\SelectionSort.csproj",
+      "projectName": "SelectionSort",
+      "projectPath": "C:\\Users\\herique.pereira\\Desktop\\Estrutura-de-dados\\Aula 9 - Selection Sort\\SelectionSort\\SelectionSort.csproj",
       "packagesPath": "C:\\Users\\herique.pereira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\herique.pereira\\Desktop\\Estrutura-de-dados\\Aula 1 - Arrays\\Jogo da Velha\\obj\\",
+      "outputPath": "C:\\Users\\herique.pereira\\Desktop\\Estrutura-de-dados\\Aula 9 - Selection Sort\\SelectionSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\herique.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config"
